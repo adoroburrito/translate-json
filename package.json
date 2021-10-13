@@ -1,0 +1,20 @@
+{
+  "name": "translate-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "translate": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "@vitalets/google-translate-api": "^7.0.0",
+    "google-translate-api": "^2.3.0",
+    "sqlite3": "^5.0.2",
+    "typeorm": "^0.2.38"
+  },
+  "devDependencies": {},
+  "description": ""
+}

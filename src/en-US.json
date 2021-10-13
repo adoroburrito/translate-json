@@ -1,0 +1,8 @@
+{
+  "HELLO_THERE": "Hello, there! How is it going?",
+  "EXAMPLE": "This is an example file",
+  "JSON": "i18n frameworks usually use JSON files like this",
+  "TRANSLATE": "This script makes it easy to make a change only in one place and have it translate for all necessary languages",
+  "CACHE": "It also has a small sqlite cache, to make sure you don't translate again what you already have translated",
+  "ENJOY": "Enjoy and have fun!"
+}
