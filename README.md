@@ -10,3 +10,9 @@ $ cd translate-json
 $ npm install
 $ npm run translate <ISO 639-1 code>
 ```
+
+# TO-DO
+- [ ] port to typescript
+- [ ] clean code up
+- [ ] drink water
+- [ ] eat healthy
